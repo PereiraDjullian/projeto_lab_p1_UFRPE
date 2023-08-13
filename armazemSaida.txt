@@ -1,0 +1,8 @@
+numero do item  nome do item    preco do item   quantidade do item
+1               alicate         10.0            100            
+2               chave_fenda     5.0             50             
+3               chave_boca      5.0             50             
+4               chave_philips   5.0             50             
+5               martelo         15.0            150            
+6               pregos          1.0             1000           
+10              klynsmyanno     100.0           50             
