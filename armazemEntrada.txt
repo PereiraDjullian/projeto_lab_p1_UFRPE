@@ -1,4 +1,4 @@
-Part Number Part Name Part Price Part quantity
+numero do item  nome do item    preco do item   quantidade do item
 1 alicate 10 100
 2 chave_fenda 5 50
 3 chave_boca 5 50
